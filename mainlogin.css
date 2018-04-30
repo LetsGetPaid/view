@@ -1,0 +1,45 @@
+
+
+.container{
+/*	margin-left: 25%;
+	margin-right: 25%;*/
+	margin-top: 2%;
+	/*margin-left: 250px;*/
+	/*border: dashed 2px orange;*/
+	padding-left: 2%;
+	padding-right: 25%;
+	/*width: 600px;*/
+	/*text-align: center;*/
+	border: solid 5px red;
+	height: 100%;
+	/*background-color: #000000;*/
+
+}
+.page-header {
+	font-family: sans-serif;
+	margin-left: 50%
+	/*color: red;*/
+	/*margin: 10px 0 10px;*/
+}
+.container h1{
+	font-family: monospace;
+}
+
+.paddingleft {
+	/*padding-left: 50%;*/
+	mag
+}
+
+/*.formgroup{
+	margin-left: 100px;
+}*/
+
+/*h2 {
+	font-family: monospace;
+
+}*/
+
+/*.pageheader {
+	float: left;
+	width: 100%;
+}*/
